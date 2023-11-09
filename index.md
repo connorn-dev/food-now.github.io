@@ -22,6 +22,10 @@ Our Mock-up design includes 3 pages:
 
 **Landing Page**
 
+| Main Home Page | 
+| ----------------------------------- |
+| ![Sign in Page](/PDF-Folder/landing-page.png)  | 
+
 **Sign In & Sign Up Page**
 
 | Sign In                             | Sign Up                             |
@@ -34,6 +38,7 @@ Our Mock-up design includes 3 pages:
 | Vendor Page | 
 | ----------------------------------- |
 | ![Sign in Page](/PDF-Folder/vendorpagemock.png)  | 
+
 
 ## Checklist
 
